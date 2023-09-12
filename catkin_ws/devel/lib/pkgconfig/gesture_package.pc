@@ -1,0 +1,8 @@
+prefix=/home/nazib/Desktop/Speech_gesture/new/catkin_ws/devel
+
+Name: gesture_package
+Description: Description of gesture_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

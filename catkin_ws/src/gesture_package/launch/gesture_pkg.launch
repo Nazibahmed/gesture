@@ -1,0 +1,6 @@
+<launch>
+  <!-- Launch the robot controller node -->
+  <node name="gesture_recognition" pkg="gesture_package" type="gesture.py" output="screen" />
+  
+ 
+</launch>
